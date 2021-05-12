@@ -1,0 +1,7 @@
+RODO, 3000
+FEDE, 2000
+FRAN, 1000
+dou,6830
+dsds,7000
+dffddfd,7000
+asdasd,7000

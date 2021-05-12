@@ -1,0 +1,7 @@
+import pygame
+
+cantidadDeCasillasPorLado = 8
+cantPixelesPorLadoCasilla = 72
+
+# Pantalla
+ventana = pygame.display.set_mode((1152, 648))
