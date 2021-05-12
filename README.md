@@ -1,5 +1,5 @@
 # maraton-pygame
-Educational game for children about internet safety made with pygame
+Educational game for children about internet safety made with pygame.
 I did it in 2019 for a National Programming Contest using a python library, pygame. 
 The character is a tablet with superpowers that has to destroy all web threats and take them to safe zones to complete the level. 
 
